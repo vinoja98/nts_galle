@@ -12,7 +12,7 @@
 		<div class="top-bar clearfix">
 			<div class="top-bar-links-left">
 				<ul>
-					<li><a href="#">Home</a></li>
+					<li><a href="home.php">Home</a></li>
 					<li><a href="#">About Us</a></li>
 					<li><a href="#">Contact Us</a></li>
 				</ul>
